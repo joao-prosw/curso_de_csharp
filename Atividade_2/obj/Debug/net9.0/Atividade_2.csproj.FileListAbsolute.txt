@@ -1,0 +1,15 @@
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.AssemblyInfoInputs.cache
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.AssemblyInfo.cs
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.csproj.CoreCompileInputs.cache
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.sourcelink.json
+D:\Projetos\curso_de_csharp\Atividade_2\bin\Debug\net9.0\Atividade_2.exe
+D:\Projetos\curso_de_csharp\Atividade_2\bin\Debug\net9.0\Atividade_2.deps.json
+D:\Projetos\curso_de_csharp\Atividade_2\bin\Debug\net9.0\Atividade_2.runtimeconfig.json
+D:\Projetos\curso_de_csharp\Atividade_2\bin\Debug\net9.0\Atividade_2.dll
+D:\Projetos\curso_de_csharp\Atividade_2\bin\Debug\net9.0\Atividade_2.pdb
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.dll
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\refint\Atividade_2.dll
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.pdb
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\Atividade_2.genruntimeconfig.cache
+D:\Projetos\curso_de_csharp\Atividade_2\obj\Debug\net9.0\ref\Atividade_2.dll
