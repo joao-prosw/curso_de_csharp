@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "curso_de_csharp/1.0.0": {
+      "Atividade_1/1.0.0": {
         "runtime": {
-          "curso_de_csharp.dll": {}
+          "Atividade_1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "curso_de_csharp/1.0.0": {
+    "Atividade_1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
