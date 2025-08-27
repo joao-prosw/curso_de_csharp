@@ -1,0 +1,15 @@
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.AssemblyInfoInputs.cache
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.AssemblyInfo.cs
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.csproj.CoreCompileInputs.cache
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.sourcelink.json
+D:\Projetos\curso_de_csharp\Exemplo_3\bin\Debug\net9.0\Exemplo_3.exe
+D:\Projetos\curso_de_csharp\Exemplo_3\bin\Debug\net9.0\Exemplo_3.deps.json
+D:\Projetos\curso_de_csharp\Exemplo_3\bin\Debug\net9.0\Exemplo_3.runtimeconfig.json
+D:\Projetos\curso_de_csharp\Exemplo_3\bin\Debug\net9.0\Exemplo_3.dll
+D:\Projetos\curso_de_csharp\Exemplo_3\bin\Debug\net9.0\Exemplo_3.pdb
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.dll
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\refint\Exemplo_3.dll
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.pdb
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\Exemplo_3.genruntimeconfig.cache
+D:\Projetos\curso_de_csharp\Exemplo_3\obj\Debug\net9.0\ref\Exemplo_3.dll
