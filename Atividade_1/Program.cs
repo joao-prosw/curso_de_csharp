@@ -1,4 +1,4 @@
-﻿using Atividade_1.Models;
+﻿using Curso_de_csharp.Common.Models;
 
 Pessoa test = new Pessoa();
 

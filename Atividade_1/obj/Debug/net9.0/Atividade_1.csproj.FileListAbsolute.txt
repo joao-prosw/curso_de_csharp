@@ -13,3 +13,7 @@ D:\Projetos\curso_de_csharp\Atividade_1\obj\Debug\net9.0\refint\Atividade_1.dll
 D:\Projetos\curso_de_csharp\Atividade_1\obj\Debug\net9.0\Atividade_1.pdb
 D:\Projetos\curso_de_csharp\Atividade_1\obj\Debug\net9.0\Atividade_1.genruntimeconfig.cache
 D:\Projetos\curso_de_csharp\Atividade_1\obj\Debug\net9.0\ref\Atividade_1.dll
+D:\Projetos\curso_de_csharp\Atividade_1\bin\Debug\net9.0\Curso_de_csharp.Common.dll
+D:\Projetos\curso_de_csharp\Atividade_1\bin\Debug\net9.0\Curso_de_csharp.Common.pdb
+D:\Projetos\curso_de_csharp\Atividade_1\obj\Debug\net9.0\Atividade_1.csproj.AssemblyReference.cache
+D:\Projetos\curso_de_csharp\Atividade_1\obj\Debug\net9.0\Atividad.5052A798.Up2Date
