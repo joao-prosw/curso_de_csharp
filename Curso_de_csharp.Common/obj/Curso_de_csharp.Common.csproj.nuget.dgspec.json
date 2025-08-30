@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj": {}
+    "d:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj": {
+    "d:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj",
+        "projectUniqueName": "d:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj",
         "projectName": "Curso_de_csharp.Common",
-        "projectPath": "D:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj",
+        "projectPath": "d:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj",
         "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\obj\\",
+        "outputPath": "d:\\Projetos\\curso_de_csharp\\Curso_de_csharp.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"

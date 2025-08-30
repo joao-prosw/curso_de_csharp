@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Exemplo_4/1.0.0": {
+        "dependencies": {
+          "Curso_de_csharp.Common": "1.0.0"
+        },
+        "runtime": {
+          "Exemplo_4.dll": {}
+        }
+      },
+      "Curso_de_csharp.Common/1.0.0": {
+        "runtime": {
+          "Curso_de_csharp.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Curso_de_csharp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
