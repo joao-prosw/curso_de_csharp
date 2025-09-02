@@ -1,0 +1,15 @@
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\bin\Debug\net9.0\Explorando.Common.exe
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\bin\Debug\net9.0\Explorando.Common.deps.json
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\bin\Debug\net9.0\Explorando.Common.runtimeconfig.json
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\bin\Debug\net9.0\Explorando.Common.dll
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\bin\Debug\net9.0\Explorando.Common.pdb
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.AssemblyInfoInputs.cache
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.AssemblyInfo.cs
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.csproj.CoreCompileInputs.cache
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.sourcelink.json
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.dll
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\refint\Explorando.Common.dll
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.pdb
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.genruntimeconfig.cache
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\ref\Explorando.Common.dll
