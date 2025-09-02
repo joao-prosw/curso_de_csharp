@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Exemplo_5\\Exemplo_5.csproj",
+      "projectUniqueName": "D:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Exemplo_5\\Exemplo_5.csproj",
       "projectName": "Exemplo_5",
-      "projectPath": "d:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Exemplo_5\\Exemplo_5.csproj",
+      "projectPath": "D:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Exemplo_5\\Exemplo_5.csproj",
       "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-      "outputPath": "d:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Exemplo_5\\obj\\",
+      "outputPath": "D:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Exemplo_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "d:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj": {
-              "projectPath": "d:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj"
+            "D:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj": {
+              "projectPath": "D:\\Projetos\\curso_de_csharp\\Fundamentos_M1\\Curso_de_csharp.Common\\Curso_de_csharp.Common.csproj"
             }
           }
         }
