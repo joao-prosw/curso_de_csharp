@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_2", "Exemplo_2\Exem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorando.Common", "Explorando.Common\Explorando.Common.csproj", "{CCDA0246-15FA-4239-94EB-1E84971407BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_3", "Exemplo_3\Exemplo_3.csproj", "{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{CCDA0246-15FA-4239-94EB-1E84971407BE}.Release|x64.Build.0 = Release|Any CPU
 		{CCDA0246-15FA-4239-94EB-1E84971407BE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CCDA0246-15FA-4239-94EB-1E84971407BE}.Release|x86.Build.0 = Release|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Debug|x64.Build.0 = Debug|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Debug|x86.Build.0 = Debug|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Release|x64.ActiveCfg = Release|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Release|x64.Build.0 = Release|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Release|x86.ActiveCfg = Release|Any CPU
+		{EDDEB1A3-71C0-4AF4-AF53-BEF678D21178}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
