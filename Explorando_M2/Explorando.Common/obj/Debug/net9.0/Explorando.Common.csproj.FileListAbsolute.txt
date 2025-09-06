@@ -13,3 +13,6 @@ D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\ref
 D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.pdb
 D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.genruntimeconfig.cache
 D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\ref\Explorando.Common.dll
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Explorando.Common.csproj.AssemblyReference.cache
+D:\Projetos\curso_de_csharp\Explorando_M2\Explorando.Common\obj\Debug\net9.0\Exploran.13DFA921.Up2Date

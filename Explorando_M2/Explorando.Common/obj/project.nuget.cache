@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "T7p0hOoYVnw=",
+  "dgSpecHash": "8rPiebcKpIQ=",
   "success": true,
   "projectFilePath": "D:\\Projetos\\curso_de_csharp\\Explorando_M2\\Explorando.Common\\Explorando.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\newtonsoft.json\\13.0.4-beta1\\newtonsoft.json.13.0.4-beta1.nupkg.sha512"
+  ],
   "logs": []
 }
