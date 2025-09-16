@@ -1,0 +1,15 @@
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\bin\Debug\net9.0\oo.commons.exe
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\bin\Debug\net9.0\oo.commons.deps.json
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\bin\Debug\net9.0\oo.commons.runtimeconfig.json
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\bin\Debug\net9.0\oo.commons.dll
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\bin\Debug\net9.0\oo.commons.pdb
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.AssemblyInfoInputs.cache
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.AssemblyInfo.cs
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.csproj.CoreCompileInputs.cache
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.sourcelink.json
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.dll
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\refint\oo.commons.dll
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.pdb
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\oo.commons.genruntimeconfig.cache
+D:\Projetos\curso_de_csharp\OO_M3\oo.commons\obj\Debug\net9.0\ref\oo.commons.dll
